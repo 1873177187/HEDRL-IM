@@ -14,7 +14,7 @@ pip install -r requirements.txt
 python IM.py
 ```
 
-### Synthetic hypergraphs method
+### Synthetic hypergraphs method HyperFF
 https://github.com/jihoonko/HyperFF
 
 
