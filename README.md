@@ -20,7 +20,7 @@ https://github.com/jihoonko/HyperFF
 
 ### Hypergraph embedding method NHNE
 [Nonuniform Hyper-Network Embedding with Dual Mechanism](https://dl.acm.org/doi/10.1145/3388924) 
-
+https://github.com/jeffhj/NHNE
 
 ### Datsets
 @article{antelmi2021social,
